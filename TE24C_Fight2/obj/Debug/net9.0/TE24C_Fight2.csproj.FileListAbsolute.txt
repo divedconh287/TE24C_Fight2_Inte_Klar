@@ -1,0 +1,15 @@
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Fight2\TE24C_Fight2\bin\Debug\net9.0\TE24C_Fight2.exe
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Fight2\TE24C_Fight2\bin\Debug\net9.0\TE24C_Fight2.deps.json
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Fight2\TE24C_Fight2\bin\Debug\net9.0\TE24C_Fight2.runtimeconfig.json
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Fight2\TE24C_Fight2\bin\Debug\net9.0\TE24C_Fight2.dll
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Fight2\TE24C_Fight2\bin\Debug\net9.0\TE24C_Fight2.pdb
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Fight2\TE24C_Fight2\obj\Debug\net9.0\TE24C_Fight2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Fight2\TE24C_Fight2\obj\Debug\net9.0\TE24C_Fight2.AssemblyInfoInputs.cache
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Fight2\TE24C_Fight2\obj\Debug\net9.0\TE24C_Fight2.AssemblyInfo.cs
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Fight2\TE24C_Fight2\obj\Debug\net9.0\TE24C_Fight2.csproj.CoreCompileInputs.cache
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Fight2\TE24C_Fight2\obj\Debug\net9.0\TE24C_Fight2.sourcelink.json
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Fight2\TE24C_Fight2\obj\Debug\net9.0\TE24C_Fight2.dll
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Fight2\TE24C_Fight2\obj\Debug\net9.0\refint\TE24C_Fight2.dll
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Fight2\TE24C_Fight2\obj\Debug\net9.0\TE24C_Fight2.pdb
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Fight2\TE24C_Fight2\obj\Debug\net9.0\TE24C_Fight2.genruntimeconfig.cache
+C:\Users\aaron.granath\Documents\Programmering 1\TE24C_Fight2\TE24C_Fight2\obj\Debug\net9.0\ref\TE24C_Fight2.dll
