@@ -23,8 +23,24 @@ while (prohp > 0 && anthp > 0)
     prohp -= prodmg;
     int antdmg = Random.Shared.Next(5, 21);
     anthp -= antdmg;
-    
+
+    Console.WriteLine("""
+    \x1b[39mstå
+    """);
+    Console.ReadLine();
+    Console.WriteLine("""
+    \x1b[39mslå
+    """);
     Console.WriteLine($"\x1b[32m{proname} slår {antname} och gör {antdmg} skada!");
+
+    Console.WriteLine("""
+    \x1b[39mstå
+    """);
+    Console.ReadLine();
+    Console.WriteLine("""
+    \x1b[39m
+    
+    """);
     Console.WriteLine($"\x1b[31m{antname} slår {proname} och gör {prodmg} skada!");
     
     Console.ReadLine();
